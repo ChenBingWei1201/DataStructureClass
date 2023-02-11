@@ -1,0 +1,41 @@
+/*for (int i = 0; i < size + 2; i++)
+	{
+		value = rand() % 100;
+		if (queue.pushBack(value))
+			std::cout << std::setw(2) << value << "  ";
+		else
+			std::cout << "Fail to push! ";
+	}
+
+	std::cout << "\n" << "////////////////////" << "\n";
+
+	for (int i = 0; i < size / 2; i++)
+	{
+		if (queue.popFront(value))
+			std::cout << std::setw(2) << value << "  ";
+		else
+			std::cout << "Fail to pop! ";
+	}
+	std::cout << "\n" << "////////////////////" << "\n";
+	
+	for (int i = 0; i < size / 2 + 2; i++)
+	{
+		value = rand() % 100;
+		if (queue.pushBack(value))
+			std::cout << std::setw(2) << value << "  ";
+		else
+			std::cout << "Fail to push!";
+	}
+
+	std::cout << "\n" << "////////////////////" << "\n";
+
+	for (int i = 0; i < size + 2; i++)
+	{
+		if (queue.popFront(value))
+			std::cout << std::setw(2) << value << "  ";
+		else
+			std::cout << "Fail to pop!";
+	}
+	std::cout << "\n" << "////////////////////" << "\n";
+
+	return 0;*/

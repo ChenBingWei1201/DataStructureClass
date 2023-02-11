@@ -1,0 +1,8 @@
+do {
+        std::cout << "1.直角座標系(輸入1)" << "\t" << "2.極座標系(輸入2)" << "\n";
+        std::cin >> type;
+        if ((type == 1) || (type == 2))
+            break;
+        else
+            std::cout << "只能輸入1或是2，請在試一次\n";
+    } while ((type != 1) && (type != 2));

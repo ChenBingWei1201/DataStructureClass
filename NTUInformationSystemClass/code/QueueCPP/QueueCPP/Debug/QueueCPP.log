@@ -1,0 +1,5 @@
+﻿  QueueCPP.cpp
+C:\Users\Pro\Desktop\code\QueueCPP\QueueCPP\QueueCPP.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Pro\Desktop\code\QueueCPP\QueueCPP\QueueCPP.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Pro\Desktop\code\QueueCPP\QueueCPP\CBaseQueue.h(39): warning C4715: 'BaseQueue<int>::setSize': not all control paths return a value
+  QueueCPP.vcxproj -> C:\Users\Pro\Desktop\code\QueueCPP\Debug\QueueCPP.exe

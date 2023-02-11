@@ -1,0 +1,7 @@
+﻿  StackCPP.cpp
+C:\Users\Pro\Desktop\code\StackCPP\StackCPP\StackCPP.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Pro\Desktop\code\StackCPP\StackCPP\CBaseStack.h(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pro\Desktop\code\StackCPP\StackCPP\CBaseStack.h(70): message : while compiling class template member function 'bool CStack<int>::remove(int)'
+C:\Users\Pro\Desktop\code\StackCPP\StackCPP\StackCPP.cpp(32): message : see reference to function template instantiation 'bool CStack<int>::remove(int)' being compiled
+C:\Users\Pro\Desktop\code\StackCPP\StackCPP\StackCPP.cpp(11): message : see reference to class template instantiation 'CStack<int>' being compiled
+  StackCPP.vcxproj -> C:\Users\Pro\Desktop\code\StackCPP\Debug\StackCPP.exe

@@ -1,0 +1,4 @@
+﻿  VectorCPP.cpp
+C:\Users\Pro\Desktop\code\VectorCPP\VectorCPP\VectorCPP.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pro\Desktop\code\VectorCPP\VectorCPP\VectorCPP.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+  VectorCPP.vcxproj -> C:\Users\Pro\Desktop\code\VectorCPP\Debug\VectorCPP.exe

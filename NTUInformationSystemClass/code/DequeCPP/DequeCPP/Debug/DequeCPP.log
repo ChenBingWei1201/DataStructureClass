@@ -1,0 +1,5 @@
+﻿  DequeCPP.cpp
+C:\Users\Pro\Desktop\code\DequeCPP\DequeCPP\DequeCPP.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pro\Desktop\code\DequeCPP\DequeCPP\DequeCPP.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pro\Desktop\code\DequeCPP\DequeCPP\DequeCPP.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  DequeCPP.vcxproj -> C:\Users\Pro\Desktop\code\DequeCPP\Debug\DequeCPP.exe

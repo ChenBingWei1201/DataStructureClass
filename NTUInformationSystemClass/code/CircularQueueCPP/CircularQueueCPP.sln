@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularQueueCPP", "CircularQueueCPP\CircularQueueCPP.vcxproj", "{D865CF98-F0E0-4679-8764-31F7E3472CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Debug|x64.ActiveCfg = Debug|x64
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Debug|x64.Build.0 = Debug|x64
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Debug|x86.Build.0 = Debug|Win32
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Release|x64.ActiveCfg = Release|x64
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Release|x64.Build.0 = Release|x64
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Release|x86.ActiveCfg = Release|Win32
+		{D865CF98-F0E0-4679-8764-31F7E3472CCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AEDD50-5FFA-4BFE-84D9-9A9E62C2B7CD}
+	EndGlobalSection
+EndGlobal

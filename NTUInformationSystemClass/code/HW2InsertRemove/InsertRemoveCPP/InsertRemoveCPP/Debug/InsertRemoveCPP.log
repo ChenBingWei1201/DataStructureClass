@@ -1,0 +1,3 @@
+﻿  InsertRemove.cpp
+C:\Users\Pro\Desktop\code\HW2InsertRemove\InsertRemoveCPP\InsertRemoveCPP\InsertRemove.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InsertRemoveCPP.vcxproj -> C:\Users\Pro\Desktop\code\HW2InsertRemove\InsertRemoveCPP\Debug\InsertRemoveCPP.exe

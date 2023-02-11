@@ -1,0 +1,3 @@
+﻿  HW3CPP.cpp
+C:\Users\Pro\Desktop\code\HW3Queue\HW3CPP\HW3CPP\HW3CPP.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW3CPP.vcxproj -> C:\Users\Pro\Desktop\code\HW3Queue\HW3CPP\Debug\HW3CPP.exe
