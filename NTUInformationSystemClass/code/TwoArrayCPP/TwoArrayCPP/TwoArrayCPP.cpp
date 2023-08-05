@@ -19,9 +19,9 @@ int main()
         system("CLS");
     } while (num != 0);
     if (CheckPuzzle() == 8)
-        std::cout << "жие\" << "\n";
+        std::cout << "Success!" << "\n";
     else
-        std::cout << "ев▒╤" << "\n";
+        std::cout << "Unsuccess" << "\n";
 }
 
 void CreatPuzzle()
